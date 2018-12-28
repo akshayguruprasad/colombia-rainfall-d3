@@ -1,0 +1,36 @@
+svg{
+    top: 200px;
+    left: 400px;
+background-color: whitesmoke;
+position: relative;
+border: 4px solid black;
+}
+p{
+    top: 200px;
+    left: 400px;
+position: relative;
+width: 3000px;
+font-family: sans-serif;
+font-weight: 200;
+font-style: oblique;
+font-variant: small-caps;
+color: black;
+font-size: 40px;
+text-align: center
+}
+circle{
+
+position: relative;
+
+}
+
+#m{
+    position: relative;
+    font-family: sans-serif;
+    font-weight: 200;
+    font-style: oblique;
+    font-variant: small-caps;
+    color: black;
+    font-size: 40px;
+    text-align: center;    
+}
